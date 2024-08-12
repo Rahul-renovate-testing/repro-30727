@@ -1,4 +1,4 @@
 {
   "commitBody": "{{{logJSON}}}",
-  "fetchChangelogs": "branch"
+  "fetchChangeLogs": "branch"
 }
